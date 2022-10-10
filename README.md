@@ -1,2 +1,2 @@
-# primeiro-repositorio
-Repositório criado a fim de compreender as funcionalidades do GitHub
+# Primeiro Repositório
+Repositório criado a fim de compreender as funcionalidades do Git/GitHub
